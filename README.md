@@ -2,7 +2,7 @@
 Quick experiments in data manipulation using Python
 
 # Things I want to be able to do:
-- [ ] Do a data overview of various stats that might be useful, and print to file
+## - [ ] Do a data overview of various stats that might be useful, and print to file
 - [ ] Data visualisation for different fields
   - [ ] Gender distribution of passengers using bar chart
   - [ ] Histogram of flight status to see distribution of cancelled, delayed, on-time flights
