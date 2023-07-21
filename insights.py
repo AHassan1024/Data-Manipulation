@@ -1,11 +1,12 @@
 import pandas as pd
+from IPython.display import display
 
 # Load the flight data from the CSV file
 flight_data = pd.read_csv('mock_flight_data.csv')
 
 # Display the first few rows of the dataset
 print("Data Overview:")
-print(flight_data.head())
+display(flight_data.head())
 
 # Check the number of rows and columns in the dataset
 print("\nData Shape:")
