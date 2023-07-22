@@ -5,8 +5,8 @@ Quick experiments in data manipulation using Python
 - [x] Do a data overview of various stats that might be useful
 - [x] Print overview to file
 - [ ] Data visualisation for different fields
-  - [ ] Gender distribution of passengers using bar chart
-  - [ ] Histogram of flight status to see distribution of cancelled, delayed, on-time flights
+  - [x] Gender distribution of passengers using bar chart
+  - [x] Histogram of flight status to see distribution of cancelled, delayed, on-time flights
   - [ ] Scatter plot, geographical map to show flight routes based on origin and destination
 - [ ] Time-Series analysis on number of flights over days, months and seasons
 - [ ] Use longitute, latitude to create a map of airports and where flights travel between
