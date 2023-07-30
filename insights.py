@@ -23,3 +23,11 @@ print(flight_data.describe())
 # Check for missing values in each column
 print("\nMissing Values:")
 print(flight_data.isnull().sum())
+
+
+# Filter example:
+# print( flight_data[flight_data['gender'] == 'Male'] )
+
+# new_flight_data = flight_data[flight_data['gender'] == 'Male']
+# # new_df = pd.DataFrame(new_flight_data)
+# new_flight_data.to_csv("male_passengers.csv", index=False)
